@@ -1,0 +1,133 @@
+<TarificacionThirdPartyRequest>
+    <Cotizacion>0</Cotizacion> 
+    <Datos> 
+        <DatosAseguradora> 
+            <AniosCiaAnterior>1</AniosCiaAnterior> 
+            <AniosTitularSeguro>1</AniosTitularSeguro> 
+            <CiaAnterior>C0723</CiaAnterior> 
+            <CincoDigPolAnterior xsi:nil="true" /> 
+            <FecUltimoSiniestro>2018-06-13T00:00:00</FecUltimoSiniestro> 
+            <NroSiniestroCulpa>1</NroSiniestroCulpa> 
+            <SeguroEnVigor>S</SeguroEnVigor> 
+            <TiempoSinSeguro xsi:nil="true" /> 
+        </DatosAseguradora> 
+        <DatosCoberturas> 
+            <DatosCoberturas> 
+                <CodCobertura>315</CodCobertura> 
+                <Valor>6000</Valor> 
+            </DatosCoberturas> 
+        </DatosCoberturas> 
+        <DatosConductor> 
+            <CodDocumento>NIF</CodDocumento> 
+            <CodPaisExpedicion>053</CodPaisExpedicion> 
+            <CodPaisNacimiento>053</CodPaisNacimiento> 
+            <CodPostal>28055</CodPostal> 
+            <EstadoCivil>S</EstadoCivil> 
+            <FecCarnet>2017-10-31T00:00:00</FecCarnet> 
+            <FecNacimiento>1990-11-12T00:00:00</FecNacimiento> 
+            <HijosCarnet>N</HijosCarnet> 
+            <Ocupacion>03</Ocupacion> 
+            <Profesion>0301</Profesion> 
+            <PuntosCarnet>15</PuntosCarnet> 
+            <Sexo>H</Sexo> 
+            <SubDocum xsi:nil="true" /> 
+        </DatosConductor> 
+        <DatosGenerales> 
+            <CodMedAncl>36187</CodMedAncl> 
+            <CondPpalEsTomador>S</CondPpalEsTomador> 
+            <ConductorUnico>S</ConductorUnico> 
+            <ContrataAlgunPack>N</ContrataAlgunPack> 
+            <Cotizacion>0</Cotizacion> 
+            <EntornoOrigen>O_WSO</EntornoOrigen> 
+            <FecCot>2020-06-14T00:00:00</FecCot> 
+            <FecCotAncl xsi:nil="true" /> 
+            <AnosSegAnte>3</AnosSegAnte> 
+            <FecUltimoSeguro xsi:nil="true" /> 
+            <Franquicia xsi:nil="true" /> 
+            <Idioma xsi:nil="true" /> 
+            <ImporteFranquicia xsi:nil="true" /> 
+            <MasVehiculos>MOT</MasVehiculos> 
+            <McaPagoTarjeta>N</McaPagoTarjeta> 
+            <Mediador>36187</Mediador> 
+            <Modalidad /> 
+            <MotivoBonus xsi:nil="true" /> 
+            <MotivoEstado xsi:nil="true" /> 
+            <NivelDP xsi:nil="true" /> 
+            <NivelLU xsi:nil="true" /> 
+            <NivelRC xsi:nil="true" /> 
+            <NroCochesFamilia>2</NroCochesFamilia> 
+            <NroCondOca>0</NroCondOca>
+            <NroOpera xsi:nil="true" /> 
+            <NroRiesgo>0</NroRiesgo> 
+            <PctOpera xsi:nil="true" /> 
+            <Poliza>0</Poliza> 
+            <Polizaorigen>0</Polizaorigen> 
+            <Polizatarificada>0</Polizatarificada> 
+            <Ramo>315</Ramo> 
+            <ScoreA /> 
+            <ScoreB /> 
+            <SeguroEnVigor>S</SeguroEnVigor> 
+            <SubMediador xsi:nil="true" /> 
+            <Subramo>01</Subramo> 
+            <Suplemento>1</Suplemento> 
+            <TallerConcertado>S</TallerConcertado> 
+            <UsuarioCot>ag36187w</UsuarioCot> 
+            <VersionCot>0</VersionCot> 
+        </DatosGenerales> 
+        <DatosPropietario> 
+            <Propietario> 
+                <CodActividad xsi:nil="true" /> 
+                <CodDocumento>NIF</CodDocumento> 
+                <CodError xsi:nil="true" /> 
+                <CodPais xsi:nil="true" /> 
+                <Domicilio> 
+                    <CodPostal>28055</CodPostal> 
+                </Domicilio> 
+                <Empresa>4</Empresa> 
+                <FecCarnet>2017-10-31T00:00:00</FecCarnet> 
+                <FecNacimiento>1990-11-12T00:00:00</FecNacimiento> 
+                <NroDocumento /> 
+                <SubCodDocumento xsi:nil="true" /> 
+            </Propietario> 
+            <QuienEsPropietario>2</QuienEsPropietario> 
+            <TomadorEsPropietario>S</TomadorEsPropietario> 
+        </DatosPropietario> 
+        <DatosTomador> 
+            <CodActividad xsi:nil="true" /> 
+            <CodDocumento>NIF</CodDocumento> 
+            <CodError xsi:nil="true" /> 
+            <CodPais xsi:nil="true" /> 
+            <Domicilio> 
+                <CodPostal>28055</CodPostal> 
+            </Domicilio> 
+            <Empresa>4</Empresa> 
+            <FecCarnet>2017-10-31T00:00:00</FecCarnet> 
+            <FecNacimiento>1990-11-12T00:00:00</FecNacimiento> 
+            <NroDocumento /> 
+            <SubCodDocumento xsi:nil="true" /> 
+        </DatosTomador> 
+        <DatosVehiculo> 
+            <CodMarca>0013</CodMarca> 
+            <CodModelo>094</CodModelo> 
+            <CodTiempoCompra>1</CodTiempoCompra> 
+            <CodUso>10</CodUso> 
+            <CodVersion>0144</CodVersion> 
+            <FecMatriculacion>2020-06-12T15:17:07</FecMatriculacion> 
+            <KmVehiculo>5000</KmVehiculo> 
+            <Parking>X</Parking> 
+            <ValorVehiculo>0</ValorVehiculo> 
+        </DatosVehiculo> 
+    </Datos> 
+    <Empresa>4</Empresa> 
+    <FaseTarificacion /> 
+    <Identificador>ag36187w@SW11PX44</Identificador> 
+    <Plataforma>00023</Plataforma> 
+    <TipoTarificacion>T</TipoTarificacion> 
+    <VersionCotizacion>0</VersionCotizacion> 
+    <DatosComparadores> 
+        <MorosidadComparador>N</MorosidadComparador> 
+        <AnioVdaActual>1</AnioVdaActual> 
+        <MultasUlt3anios>1</MultasUlt3anios> 
+        <TipoSeguro>1</TipoSeguro> 
+    </DatosComparadores> 
+</TarificacionThirdPartyRequest>

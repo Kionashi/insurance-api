@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<TarificacionThirdPartyRequest><Cotizacion>0</Cotizacion><Datos><DatosGenerales><CondPpalEsTomador>S</CondPpalEsTomador><ConductorUnico>S</ConductorUnico><FecCot>2023-09-04T09:47:52</FecCot><AnosSegAnte>0</AnosSegAnte><NroCondOca>0</NroCondOca><SeguroEnVigor>N</SeguroEnVigor></DatosGenerales><DatosConductor><CodDocumento>DNI</CodDocumento><FecCarnet>2020-12-15T00:00:00</FecCarnet><FecNacimiento>2002-06-05T00:00:00</FecNacimiento><Sexo>M</Sexo></DatosConductor></Datos></TarificacionThirdPartyRequest>

@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<TarificacionThirdPartyRequest><Cotizacion>0</Cotizacion><Datos><DatosGenerales><CondPpalEsTomador>S</CondPpalEsTomador><ConductorUnico>N</ConductorUnico></DatosGenerales><DatosConductor><CodDocumento>DNI</CodDocumento><FecNacimiento>1990-15-06T00:00:00</FecNacimiento></DatosConductor></Datos></TarificacionThirdPartyRequest>
