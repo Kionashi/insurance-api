@@ -64,7 +64,7 @@ http://localhost:8000/api/insurance/foo/prices?car_brand=SEAT&car_fuel=Gasolina&
 The response of the request (if all the data is valid) will be an hipotetical price after consulting the price with the insurance company, so  in order to check if the XML is being generated correctly, there will be an xml file in the public folder of the project called `object.xml` that will contain the xml of the latest request to the endpoint so it will be easy to check.
 
 
-Si tienes alguna pregunta o problema, no dudes en contactar conmigo.
+Any questions or problems feel free to contact me in the folowing channels.
 
 tlf: 618918809
 email: cardozo.anibal@gmail.com
